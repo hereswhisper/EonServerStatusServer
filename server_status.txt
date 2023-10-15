@@ -1,0 +1,1 @@
+{"NAE": {"match_started": false, "player_count": 0, "status": "Waiting for the match to start.."}, "EU": {"match_started": false, "player_count": 0, "status": "Waiting for the match to start.."}}
